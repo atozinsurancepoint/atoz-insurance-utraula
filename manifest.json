@@ -1,0 +1,24 @@
+{
+  "name": "A To Z Insurance Point - Utraula, Balrampur",
+  "short_name": "A2Z Insurance",
+  "description": "Public Website, Admin ERP & Client Portal for A To Z Insurance Point, Post - Utraula, District - Balrampur (U.P.)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='28' fill='%231d4ed8'/%3E%3Cpath d='M64 18L24 34v30c0 27.6 17.1 52.8 40 62 22.9-9.2 40-34.4 40-62V34L64 18z' fill='%2310b981'/%3E%3Ctext x='64' y='74' font-family='Arial,sans-serif' font-size='32' font-weight='bold' fill='white' text-anchor='middle'%3EA2Z%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%231d4ed8'/%3E%3Cpath d='M256 72L96 136v120c0 110.4 68.4 211.2 160 248 91.6-36.8 160-137.6 160-248V136L256 72z' fill='%2310b981'/%3E%3Ctext x='256' y='296' font-family='Arial,sans-serif' font-size='128' font-weight='bold' fill='white' text-anchor='middle'%3EA2Z%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
